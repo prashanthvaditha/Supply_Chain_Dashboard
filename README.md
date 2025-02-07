@@ -1,6 +1,7 @@
 # Supply Chain Analytics Dashboard
 ## Overview
-This Power BI dashboard provides comprehensive supply chain analytics across three main pages: Overview, Product Insights, and Supplier Analysis. The dashboard helps track key metrics related to revenue, costs, inventory, and supplier performance.
+This Power BI dashboard provides comprehensive supply chain analytics across three main pages: Overview, Product Insights, and Supplier Analysis. The dashboard helps track key metrics related to revenue, costs, inventory, and supplier performance.<br>
+### Dashboard : [Supply_chain_dashboard](https://github.com/prashanthvaditha/Supply_Chain_Dashboard/blob/main/Supply_Chain_Dashboard.pbix)
 
 ## Dashboard Structure
 
